@@ -8,11 +8,71 @@ peach: #ffd0bb
 
 html {
   scroll-behavior: smooth;
+  scroll-padding-top: 185px; /* height of sticky header */
 }
 
 /*text*/
 body {
   font-family: 'Work Sans', sans-serif;
+}
+
+.banner {
+  font-family: 'Julius Sans One', sans-serif;
+}
+
+.subtitle {
+  font-size:medium;
+}
+
+.body-text {
+  font-size:large;
+}
+
+/*colors*/
+.navy-color {
+  color: hsl(242, 50.9%, 20.8%);
+}
+
+.cerulean-color {
+  color: hsl(219, 61.2%, 38.4%);
+}
+
+.light {
+  color: hsl(0, 0%, 21%);
+}
+
+.dark {
+color: hsl(0, 0%, 14%);
+}
+
+.bg-light-blue {
+  background-color: rgb(211, 231, 241);
+}
+
+.bg-light {
+  background-color: hsl(0, 0%, 96%);
+}
+
+.navy.button {
+    background-color: #1c1a50;
+    color: hsl(0, 0%, 90%);
+    transition:.25s;
+    height: 40px;
+}
+
+.button.navy:hover {
+    background-color: hsl(219, 61.2%, 38.4%);
+    /* opacity: .85; */
+}
+
+/*things*/
+.big-button {
+  width: 125px;
+  font-size: medium;
+}
+
+.navbar-item:hover {
+  color:hsl(219, 61.2%, 38.4%) !important;
 }
 
 /*mobile*/
