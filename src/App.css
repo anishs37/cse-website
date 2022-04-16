@@ -14,6 +14,7 @@ html {
 /*text*/
 body {
   font-family: 'Work Sans', sans-serif;
+  background-color: hsl(0, 0%, 96%);
 }
 
 .banner {
@@ -113,6 +114,11 @@ color: hsl(0, 0%, 14%);
   margin: -10px 0px 0px 0px;
 }
 
+.footer {
+  height: 230px;
+  background-color: hsl(0, 0%, 96%);
+}
+
 .footer-list-item {
 	color:hsl(0, 0%, 14%);
 	font-size: small;
@@ -139,6 +145,10 @@ color: hsl(0, 0%, 14%);
   margin: 0px 0px -30px 0px;
 }
 
+.footer-margins {
+  margin: 0px -48px 0px -48px;
+}
+
 /*mobile*/
 @media screen and (max-width: 1023px) {
     .navbar {
@@ -159,6 +169,13 @@ color: hsl(0, 0%, 14%);
         align-items: center;
         justify-content: center;
     }
+
+	.big-button {
+  	position: absolute;
+  	left: 57%;
+  	-ms-transform: translate(-50%, -50%);
+  	transform: translate(-50%, -50%);
+	}
 
 	.mobile-about-image {
 		margin: 0px 0px 25px 0px
@@ -235,6 +252,7 @@ color: hsl(0, 0%, 14%);
 }
 
 /* Fonts */
+
 #timeline p.leader {
 	text-align: center;
 	max-width: 90%;
@@ -448,57 +466,56 @@ color: hsl(0, 0%, 14%);
 	border-color: rgb(59, 100, 177);
 }
 
-/* team */
 .team-social a{
-  color: #333333;
-  font-weight: 400;
-  outline: none;
-  text-decoration: none;
-  transition: 0.5s;
+    color: #333333;
+    font-weight: 400;
+    outline: none;
+    text-decoration: none;
+    transition: 0.5s;
 }
 .team-social a:hover,
 .team-social a:focus{
-  outline: none;
-  text-decoration: none;
+    outline: none;
+    text-decoration: none;
 }
 .team-content p{
-  padding: 0;
-  margin: 0 0 15px 0;
-  color: #454545;
-  font-weight: 300;
+    padding: 0;
+    margin: 0 0 15px 0;
+    color: #454545;
+    font-weight: 300;
 }
 .team-content h2,
 .team-content h3{
-  padding: 0;
-  margin: 0 0 15px 0;
-  color: #333333;
-  font-weight: 700;
+    padding: 0;
+    margin: 0 0 15px 0;
+    color: #333333;
+    font-weight: 700;
 }
 .team-img{
-  width: 100%;
-  height: auto;
+    width: 100%;
+    height: auto;
 }
 .team{
-  margin-bottom:30px ;
+    margin-bottom:30px ;
 }
 .team .team-img{
-  position: relative;
-  font-size: 0;
-  text-align: center;
+    position: relative;
+    font-size: 0;
+    text-align: center;
 }
 .team .team-img img{
-  width: 160px;
-  height: auto;
-  border-radius: 100%;
-  border: 20px solid #f3f4fa;
+    width: 160px;
+    height: auto;
+    border-radius: 100%;
+    border: 20px solid #f3f4fa;
 }
 
 .team .team-content{
-  padding: 80px 20px 20px 20px;
-  margin-top: -80px;
-  text-align: center;
-  background: #f3f4fa;
-  border-radius: 10px;
+    padding: 80px 20px 20px 20px;
+    margin-top: -80px;
+    text-align: center;
+    background: #f3f4fa;
+    border-radius: 10px;
 }
 .team .team-content h2{
 font-size: 25px;
@@ -506,47 +523,47 @@ font-weight: 400;
 letter-spacing: 2px;
 }
 .team .team-content h3{
-  font-size: 16px;
-  font-weight: 300;
+    font-size: 16px;
+    font-weight: 300;
 }
 .team .team-content h4{
-  font-size: 16px;
+    font-size: 16px;
 font-weight: 300;
 letter-spacing: 1px;
 font-style: italic;
 margin-bottom: 0;
 }
 .team .team-content p{
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 22px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
 }
 .team .team-social a{
-  display: inline-block;
-  width: 40px;
-  height: 40px;
-  margin-right:5px ;
-  padding: 11px 0 10px 0;
-  font-size: 16px;
-  font-weight: 300;
-  line-height: 16px;
-  text-align: center;
-  color: #ffffff;
-  border-radius: 10px;
-  transition: all .3s;
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    margin-right:5px ;
+    padding: 11px 0 10px 0;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 16px;
+    text-align: center;
+    color: #ffffff;
+    border-radius: 10px;
+    transition: all .3s;
 }
 .team .team-social a.social-in{
-  background: #65bde6;
+    background: #65bde6;
 }
 .team .team-social a.social-em{
-  background: #f6bca2;
+    background: #f6bca2;
 }
 .team .team-social a.social-git{
-  background: rgb(41, 88, 174);
+    background: rgb(41, 88, 174);
 }
 .team .team-social a:last-child{
-  margin-right: 0;
+    margin-right: 0;
 }
 .team .team-social a:hover{
-  background: #7fd2db;
+    background: #7fd2db;
 }

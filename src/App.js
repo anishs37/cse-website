@@ -4,6 +4,7 @@ import Banner from './components/Banner'
 import About from './components/About'
 import Process from './components/Process'
 import Team from './components/Team'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <About/>
         <Process/>
         <Team/>
+        <Footer/>
       </section>
     </>
   );
