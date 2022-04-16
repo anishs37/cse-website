@@ -14,7 +14,7 @@ const Navbar = () => {
                         Ctrl+Shift+Eye
                     </h1>
                     <p className="subtitle dark mb-2">
-                        A more accessible browser
+                        A more accessible computer
                     </p>
                 </div>
             </div>
