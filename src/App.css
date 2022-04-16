@@ -1,0 +1,20 @@
+/* color palette
+navy: #1c1a50 hsl(242, 50.9%, 20.8%)
+cerulean (medium blue): #26509e hsl(219, 61.2%, 38.4%)
+cyan (light blue): #1799d3 hsl(199, 80.3%, 45.9%)
+teal (green-blue): #7fd2db
+peach: #ffd0bb
+*/
+
+html {
+  scroll-behavior: smooth;
+}
+
+/*text*/
+body {
+  font-family: 'Work Sans', sans-serif;
+}
+
+/*mobile*/
+@media screen and (max-width: 1023px) {
+}
