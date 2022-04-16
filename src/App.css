@@ -37,6 +37,14 @@ body {
   color: hsl(219, 61.2%, 38.4%);
 }
 
+.beige-color {
+  color: beige;
+}
+
+.white-color {
+  color: white;
+}
+
 .light {
   color: hsl(0, 0%, 21%);
 }
@@ -47,6 +55,10 @@ color: hsl(0, 0%, 14%);
 
 .bg-light-blue {
   background-color: rgb(211, 231, 241);
+}
+
+.bg-medium-navy {
+  background-color: rgb(96, 128, 188);
 }
 
 .bg-light {
@@ -71,8 +83,21 @@ color: hsl(0, 0%, 14%);
   font-size: medium;
 }
 
+.navy-border {
+  border-color: #1c1a50;
+}
+
 .navbar-item:hover {
   color:hsl(219, 61.2%, 38.4%) !important;
+}
+
+.header {
+  margin: -10px 0px 0px 0px;
+}
+
+/*margins and centering*/
+.side-margins {
+  margin: 0px -12px 0px -12px;
 }
 
 /*mobile*/
