@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/ctrl-shift-eye/static/css/main.aa022807.css",
-    "main.js": "/ctrl-shift-eye/static/js/main.e5bbbf68.js",
-    "static/js/787.31d9d0d1.chunk.js": "/ctrl-shift-eye/static/js/787.31d9d0d1.chunk.js",
-    "static/media/anish.jpg": "/ctrl-shift-eye/static/media/anish.168a3295b2bbd30c3ebc.jpg",
-    "static/media/elise.jpg": "/ctrl-shift-eye/static/media/elise.feb6a32ba1a8d8744b81.jpg",
-    "static/media/cindy.jpg": "/ctrl-shift-eye/static/media/cindy.44a82c0f71df9a58a0d7.jpg",
-    "static/media/keenan.jpg": "/ctrl-shift-eye/static/media/keenan.7ad2eb39e4feefa594d3.jpg",
-    "static/media/plugin.png": "/ctrl-shift-eye/static/media/plugin.9279af7276f3eb4f5eed.png",
-    "static/media/research.png": "/ctrl-shift-eye/static/media/research.8f3ea05e2cb8279d40b8.png",
-    "static/media/website.png": "/ctrl-shift-eye/static/media/website.aac45ca810247c89eab5.png",
-    "static/media/features.png": "/ctrl-shift-eye/static/media/features.daa0b00e827119e8ba98.png",
-    "static/media/banner.png": "/ctrl-shift-eye/static/media/banner.e5db3e43e7d979bfdfb3.png",
-    "static/media/model.png": "/ctrl-shift-eye/static/media/model.ec2d7617cab319a61a58.png",
-    "static/media/aboutpic2.png": "/ctrl-shift-eye/static/media/aboutpic2.acddebaf70d338bd5be9.png",
-    "static/media/aboutpic1.png": "/ctrl-shift-eye/static/media/aboutpic1.da122f5a46a87d5ea164.png",
-    "static/media/logo128x.png": "/ctrl-shift-eye/static/media/logo128x.6cda3e83b3794444c9cb.png",
-    "index.html": "/ctrl-shift-eye/index.html",
-    "main.aa022807.css.map": "/ctrl-shift-eye/static/css/main.aa022807.css.map",
-    "main.e5bbbf68.js.map": "/ctrl-shift-eye/static/js/main.e5bbbf68.js.map",
-    "787.31d9d0d1.chunk.js.map": "/ctrl-shift-eye/static/js/787.31d9d0d1.chunk.js.map"
+    "main.css": "/cse-website/static/css/main.aa022807.css",
+    "main.js": "/cse-website/static/js/main.50e92c1f.js",
+    "static/js/787.31d9d0d1.chunk.js": "/cse-website/static/js/787.31d9d0d1.chunk.js",
+    "static/media/anish.jpg": "/cse-website/static/media/anish.168a3295b2bbd30c3ebc.jpg",
+    "static/media/elise.jpg": "/cse-website/static/media/elise.feb6a32ba1a8d8744b81.jpg",
+    "static/media/cindy.jpg": "/cse-website/static/media/cindy.44a82c0f71df9a58a0d7.jpg",
+    "static/media/keenan.jpg": "/cse-website/static/media/keenan.7ad2eb39e4feefa594d3.jpg",
+    "static/media/plugin.png": "/cse-website/static/media/plugin.9279af7276f3eb4f5eed.png",
+    "static/media/research.png": "/cse-website/static/media/research.8f3ea05e2cb8279d40b8.png",
+    "static/media/website.png": "/cse-website/static/media/website.aac45ca810247c89eab5.png",
+    "static/media/features.png": "/cse-website/static/media/features.daa0b00e827119e8ba98.png",
+    "static/media/banner.png": "/cse-website/static/media/banner.e5db3e43e7d979bfdfb3.png",
+    "static/media/model.png": "/cse-website/static/media/model.ec2d7617cab319a61a58.png",
+    "static/media/aboutpic2.png": "/cse-website/static/media/aboutpic2.acddebaf70d338bd5be9.png",
+    "static/media/aboutpic1.png": "/cse-website/static/media/aboutpic1.da122f5a46a87d5ea164.png",
+    "static/media/logo128x.png": "/cse-website/static/media/logo128x.6cda3e83b3794444c9cb.png",
+    "index.html": "/cse-website/index.html",
+    "main.aa022807.css.map": "/cse-website/static/css/main.aa022807.css.map",
+    "main.50e92c1f.js.map": "/cse-website/static/js/main.50e92c1f.js.map",
+    "787.31d9d0d1.chunk.js.map": "/cse-website/static/js/787.31d9d0d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aa022807.css",
-    "static/js/main.e5bbbf68.js"
+    "static/js/main.50e92c1f.js"
   ]
 }
