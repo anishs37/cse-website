@@ -93,6 +93,7 @@ color: hsl(0, 0%, 14%);
 
 .button.navy:hover {
     background-color: hsl(219, 61.2%, 38.4%);
+    border-color: hsl(219, 61.2%, 38.4%);
     /* opacity: .85; */
 }
 
@@ -147,6 +148,10 @@ color: hsl(0, 0%, 14%);
 
 .footer-margins {
   margin: 0px -48px 0px -48px;
+}
+
+.horizontally-centered {
+  text-align: center;
 }
 
 /*mobile*/

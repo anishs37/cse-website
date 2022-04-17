@@ -4,6 +4,7 @@ import Banner from './components/Banner'
 import About from './components/About'
 import Process from './components/Process'
 import Team from './components/Team'
+import Download from './components/Download'
 import Footer from './components/Footer'
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
         <About/>
         <Process/>
         <Team/>
+        <Download/>
         <Footer/>
       </section>
     </>

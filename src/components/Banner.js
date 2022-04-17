@@ -15,7 +15,7 @@ const Banner = () => {
             <p className="body-text dark mt-5">
             Users of our plugin are able to use their PC with only their eyes - giving those around the world who were previously limited by the ability to use their hands an easier way to browse the web and use a computer - for free.
             </p>
-            <a className="button navy mt-5 mb-5"><strong>Install Now</strong></a>
+            <a className="button navy mt-5 mb-5" href="#download"><strong>Install Now</strong></a>
           </div>
         </div>
         {/* <hr className="mt-0"></hr> */}

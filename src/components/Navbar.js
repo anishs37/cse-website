@@ -50,7 +50,7 @@ const Navbar = () => {
             <div className="navbar-end">
                 <div className="navbar-item mr-6">
                     <div className="buttons">
-                    <a className="button navy big-button">
+                    <a className="button navy big-button" href="#download">
                         <strong>Download</strong>
                     </a>
                     </div>

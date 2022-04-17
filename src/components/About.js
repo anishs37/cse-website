@@ -11,7 +11,7 @@ const About = () => {
               Our Mission.
             </h1>
             <p className="body-text white-color mt-5">
-              For most purposes, internet use requires a keyboard and mouse. Yet, many people are unable to use these tools, whether it be due to a physical limitation or other cause. We provide a way for people to browse the web using only their eyes, pioneering a revolutionary reimagining of internet accessibility.
+              For most purposes, computer use requires a keyboard and mouse. Yet, many people are unable to use these tools, whether it be due to a physical limitation or other cause. We provide a way for people to browse the web using only their eyes, pioneering a revolutionary reimagining of internet accessibility.
             </p>
             <a className="button big-button navy navy-border mt-5" href="#about-plugin"><strong>Learn More</strong></a>
           </div>
@@ -32,7 +32,7 @@ const About = () => {
                 Our App.
               </h1>
               <p className="body-text white-color mt-5">
-                Ctrl+Shift+Eye (CSE) is a customizable, easy-to-use application that allows users to move their cursor using only their eyes. Additional features like speech-to-text further supports our users' needs without the hassle of using it in conjunction with other software, making CSE an essential addition to your machine.
+                Ctrl+Shift+Eye (CSE) is a customizable, easy-to-use application that allows users to move their cursor using only their eyes. Additional features like an on-screen keyboard further supports our users' needs without the hassle of using it in conjunction with other software, making CSE an essential addition to your machine.
               </p>
             </div>
           </div>

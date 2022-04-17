@@ -2,36 +2,35 @@
     "Keenan Powell": {
         "img": "./img/keenan.jpg",
         "role": "Web App & Machine Learning",
-        "info": "Some text goes here that describes about team members",
-        "email": "abc@gmail.com",
-        "linkedin": "lilink",
-        "github": "ghlink"
+        "info": "Worked on model implementation, calibration, and Electron backend",
+        "email": "kanemodo1234@gmail.com",
+        "github": "https://github.com/NUGSPY"
     },
 
     "Anish Susarla": {
         "img": "./img/anish.jpg",
         "role": "Machine Learning",
-        "info": "Some text goes here that describes about team members",
-        "email": "abcd@gmail.com",
-        "linkedin": "lilink1",
-        "github": "ghlink1"
+        "info": "Worked on implementing machine learning models for segmentation and gaze tracking",
+        "email": "anish.susarla@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/anishsusarla/",
+        "github": "https://github.com/anishs37"
     },
 
     "Cindy Yang": {
         "img": "./img/cindy.jpg",
         "role": "Web App & Website",
-        "info": "Some text goes here that describes about team members",
-        "email": "abce@gmail.com",
-        "linkedin": "lilink2",
-        "github": "ghlink2"
+        "info": "Worked on initial React layout, Electron frontend, and data preprocessing",
+        "email": "c.yang.2023@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/2023cyang/",
+        "github": "https://github.com/ElemelonWind"
     },
 
     "Elise Zhu": {
         "img": "./img/elise.jpg",
         "role": "Website & Design",
-        "info": "Some text goes here that describes about team members",
-        "email": "abcf@gmail.com",
-        "linkedin": "lilink3",
-        "github": "ghlink3"
+        "info": "Worked on website, UI/UX, graphic design, and conducted background research",
+        "email": "elise.zyh@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/elise-yz/",
+        "github": "https://github.com/elise-yz"
     }
 }
