@@ -11,13 +11,10 @@ We utilized React as a framework for the basic layout of our site, and a combina
 2. Install React <a href="https://nodejs.org/en/download/">here</a>.
 3. In the terminal, type `nodejs install`
 4. In the terminal, type `npm start` to start the development server.
-## Features
-- [x] Customizable hotkeys and features
-- [x] Easy to use and install
-- [x] Accessible
 ## Languages
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=blue)
 ## What's next for Ctrl+Shift+Eye?
 We plan on making our gaze tracking model more accurate by researching more model frameworks. Additionally, we would like to train our model on a dataset where the coordinates returned by the model could be more easily translated and personalized to the user's screen size.
 
