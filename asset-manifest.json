@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cse-website/static/css/main.cf52309e.css",
-    "main.js": "/cse-website/static/js/main.8b1ca7bc.js",
+    "main.js": "/cse-website/static/js/main.ba3c664c.js",
     "static/js/787.31d9d0d1.chunk.js": "/cse-website/static/js/787.31d9d0d1.chunk.js",
     "static/media/anish.jpg": "/cse-website/static/media/anish.168a3295b2bbd30c3ebc.jpg",
     "static/media/elise.jpg": "/cse-website/static/media/elise.feb6a32ba1a8d8744b81.jpg",
     "static/media/cindy.jpg": "/cse-website/static/media/cindy.44a82c0f71df9a58a0d7.jpg",
     "static/media/keenan.jpg": "/cse-website/static/media/keenan.7ad2eb39e4feefa594d3.jpg",
-    "static/media/plugin.png": "/cse-website/static/media/plugin.9279af7276f3eb4f5eed.png",
+    "static/media/plugin.png": "/cse-website/static/media/plugin.e99c9f78768a089313b6.png",
     "static/media/research.png": "/cse-website/static/media/research.8f3ea05e2cb8279d40b8.png",
     "static/media/website.png": "/cse-website/static/media/website.aac45ca810247c89eab5.png",
     "static/media/features.png": "/cse-website/static/media/features.daa0b00e827119e8ba98.png",
@@ -20,11 +20,11 @@
     "static/media/linux.png": "/cse-website/static/media/linux.b583231e413808d1efe9.png",
     "index.html": "/cse-website/index.html",
     "main.cf52309e.css.map": "/cse-website/static/css/main.cf52309e.css.map",
-    "main.8b1ca7bc.js.map": "/cse-website/static/js/main.8b1ca7bc.js.map",
+    "main.ba3c664c.js.map": "/cse-website/static/js/main.ba3c664c.js.map",
     "787.31d9d0d1.chunk.js.map": "/cse-website/static/js/787.31d9d0d1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf52309e.css",
-    "static/js/main.8b1ca7bc.js"
+    "static/js/main.ba3c664c.js"
   ]
 }
