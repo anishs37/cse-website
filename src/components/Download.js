@@ -12,7 +12,7 @@ const Download = () => {
                     <img src={require("./img/windows1.png")} alt="Winows logo" width="150px" height="150px"></img>
                     </li>
                     <li>
-                    <a className="navy button big-button navy-border mt-3 mb-3" href="/builds/cse-win.zip" download><strong>Windows</strong></a>
+                    <a className="navy button big-button navy-border mt-3 mb-3" href="/builds/cse-win.exe" download><strong>Windows</strong></a>
                     </li>
                 </ul>
                 <ul className="column horizontally-centered">
@@ -20,7 +20,7 @@ const Download = () => {
                     <img src={require("./img/apple.png")} alt="Winows logo" width="150px" height="150px"></img>
                     </li>
                     <li>
-                    <a className="navy button big-button navy-border mt-3 mb-3" href="/builds/cse-mac.zip" download><strong>Mac</strong></a>
+                    <a className="navy button big-button navy-border mt-3 mb-3" href="/builds/cse-mac.exe" download><strong>Mac</strong></a>
                     </li>
                 </ul>
                 <ul className="column horizontally-centered">
@@ -28,7 +28,7 @@ const Download = () => {
                     <img src={require("./img/linux.png")} alt="Winows logo" width="150px" height="150px"></img>
                     </li>
                     <li>
-                    <a className="navy button big-button navy-border mt-3 mb-3" href="/builds/cse-lin.zip" download><strong>Linux</strong></a>
+                    <a className="navy button big-button navy-border mt-3 mb-3" href="/builds/cse-lin.exe" download><strong>Linux</strong></a>
                     </li>
                 </ul>
             </div>
